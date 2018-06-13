@@ -1,0 +1,32 @@
+/////////////////////////////////////////
+// Cours rédigé par Aroun Le BriCodeur //
+/////////////////////////////////////////
+	
+	juin 2018 by Dev'Arma 3 France
+
+La présentation terminé passons à un peu de pratique et répondons enfin à :
+		
+		Questions_01 :
+		- c'est quoi un commentaire ?
+		- c'est quoi une condition ?
+		- c'est quoi une variable ?
+		- c'est quoi une commande ?
+		- c'est quoi une fonction ?
+
+	//////////////////////
+	// Réaliser en live //
+	// Live 12/06/2018  //
+	//////////////////////
+
+
+
+/*
+	"coucou" :: je suis du STRING
+	["coucou"] :: je suis un ARRAY
+	player :: je suis un objet
+	15.45 :: je suis du SCALAR
+	TRUE/FALSE :: BOOLEAN
+*/
+
+	Pour une position : [0,0,0] = [X,Y,Z]
+	[X = (Gauche Droite),Y = (Avant arrière),Z = (Haut bas)]

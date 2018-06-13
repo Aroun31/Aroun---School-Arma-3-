@@ -1,0 +1,89 @@
+/////////////////////////////////////////
+// Cours rédigé par Aroun Le BriCodeur //
+/////////////////////////////////////////
+	
+	juin 2018 by Dev'Arma 3 France
+
+Initialisation du café en cours...
+Tu vas en avoir besoin ^^. 
+Tu bois pas de café ? 
+Boisson taurine ;) 
+
+Bon je ne sais pas ou va mener ce 1er fichier : semi-cours, semi-tuto .
+
+Donc c'est partie !
+
+	Le SQF ... (Status Quo Function) 
+	le successeur direct du SQS ancien language de Arma (Armed Assault/Operation Flashpoint).
+
+	Le SQF a fait son apparition pour la 1ere fois dans Operation Flashpoint sur la mise à jour 1.85 (2002/2003 ~)
+
+	C'est un language qui à eu beaucoup d'évolution avec les années et 
+	bien qu'il soit particulier, c'est un language qui a fait ces preuves et 
+	est relativement stable et efficace à l'heure d'aujourd'hui. 
+
+	Voilà vite fait pour le côté histoire du SQF....
+	MAIS...
+	Le SQF c'est quoi au final, ça sert à quoi ?
+
+	SQF est l'une des extentions principal du jeu. (.sqf) 
+	Dans Arma 3 aujourd'hui si tu veux apporter des modifications ou 
+	de nouvelles fonctionnalités il est presque impossible de ne pas être confronté de près ou de loin au SQF.
+
+	Je ne pense pas être le meilleur loin de la.
+	Mais avec mon parcours sur Arma 3 et un acharnement sans relâche dans la réalisation de scripts divers et variés et mon implication dans de multiple projets,
+	je pense avoir la connaissance et la crédibilité suffisante pour réaliser 
+	ce petit cours .
+
+
+	Commençons par le début : LES BASES !
+
+	Questions_01 :
+		- c'est quoi une condition ?
+		- c'est quoi une variable ?
+		- c'est quoi une commande ?
+		- c'est quoi une fonction ?
+
+		Beaucoup de gens veulent ouvrir un serveur mais ne savent pas répondre à mes 4 petites et simple question.
+		C'est triste !
+
+		Je vais essayer du mieux possible de vous faire comprendre l'environnement du SQF dans un 1er temps et si ce cours/ cette formation se passe bien,
+		nous pourrons continuer sur les différents environnements que regroupe Arma 3 tel que les fichiers [.hpp] ou [.cpp] dans les quels nous pouvont réaliser ou modifier BEAUCOUP de choses sur A3.
+
+		Mais pour le début nous allons minimiser les appels des extentions [.hpp]  et [.cpp] pour ce contentrer le plus possible sur celle qui nous intéresse pour le moment [.sqf].
+
+	Pour reprendre sur nos questions (Questions_01)...
+	Tant de questions pas toujours simple quand on veut commencer.
+	Alors essayons de voir les choses par étapes et d'éclaircir certaines choses qui peuvent vous sembler par fois compliquer à maitriser.
+
+	Il faut juste ce dire que nous parlons d'un "language", 
+	et ce qui fait que vous arrivez à me comprendre c'est que nous parlons (du moins je crois) le même language. 
+	Vous comprenez les expressions et les subtilités que j'utilise car vous "maitrisez" votre langue.
+	Pour le script c'est la même chose ! 
+	Une langue peut ressembler à une autre (de façon très proche ou issue de la même base (Ex : le latin / Fr / BE ou FR / ITL) comme le C / C++ )
+
+	Et pour apprendre y'a pas 36 façons de le faire!
+	Il faut pratiquer, s'entrainer, TRAVAILLER !!!
+	Faire des copier coller de script n'a jamais fait progressé et revendiqué avoir fait du travail que vous avez juste compilé en prenant un bout de code ici et une autre ligne la...
+	Je suis désolé mais c'est pas ça scripter !!
+	Sachez pourquoi tel commande est la et quelle sont les différentes manière de l'utiliser.
+
+	Ne soyez pas fermé aux gens, c'est le meilleur moyen de ne pas progresser ou de mettre plus de temps que si vous aviez eu une personne pour vous l'expliquer.
+
+	La base d'un bon dev est de ce poser les bonnes questions.
+
+	Une personne qui ne connaît pas le contexte de votre fichier à qui vous pourriez montrer votre travail peut vous poser des questions simples comme :
+	pourquoi utiliser cette commande ou fonction à cet endroit ?
+	ou encore :
+	ta variable _blablaVariable est égale à quoi ?
+	
+	Il ne faut pas y voir une agression.
+	La personne est peut-être simplement diposé à vous aider ou vous expliquer quelque chose et cherche à comprendre votre fichier.
+	ou inversement vous pourriez lui faire découvrir une manière d'utiliser une commande ou fonction à la quel il n'avait pas pensé que vous auriez trouvé sur le net.
+	il est donc inutile de partir dans les tours et 
+	d'afficher un comportement sur défensif ou hostile ;) .
+
+	Bon voilà pour le côté speech
+	passons maintenant sur de la pratique un petit peu ;) !
+
+	Fin de la présentation. 
