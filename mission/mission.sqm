@@ -12,10 +12,10 @@ class EditorData
 	};
 	class Camera
 	{
-		pos[]={8082.0005,34.094494,10070.546};
-		dir[]={0.058986068,-0.39904591,-0.91504741};
-		up[]={0.025670622,0.91692525,-0.39822814};
-		aside[]={-0.99794412,-1.5316618e-007,-0.064329937};
+		pos[]={8085.3286,36.918262,10067.414};
+		dir[]={-0.39595065,-0.50854081,-0.76462251};
+		up[]={-0.23385169,0.86103207,-0.45159188};
+		aside[]={-0.88801932,-2.3657049e-007,0.45985022};
 	};
 };
 binarizationWanted=0;
@@ -157,7 +157,7 @@ class Mission
 					dataType="Object";
 					class PositionInfo
 					{
-						position[]={8084.5083,29.560631,10053.068};
+						position[]={8084.5078,29.560633,10053.068};
 					};
 					side="Civilian";
 					flags=7;
@@ -167,6 +167,7 @@ class Mission
 					};
 					id=3;
 					type="C_man_1";
+					atlOffset=1.9073486e-006;
 					class CustomAttributes
 					{
 						class Attribute0
@@ -215,6 +216,7 @@ class Mission
 			{
 			};
 			id=2;
+			atlOffset=1.9073486e-006;
 		};
 	};
 };
