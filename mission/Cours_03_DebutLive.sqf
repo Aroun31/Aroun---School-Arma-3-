@@ -20,5 +20,5 @@
     *               -------------
     *
     */
-
-    systemChat "Cours 03 - Hpp ??";
+// Se référer au dossier dialog.
+    systemChat "Cours 03 - Hpp ??"; 
