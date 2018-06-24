@@ -27,6 +27,7 @@
         pour un petite intro sur les array
     */
 
+    systemChat "Cours 02 - Multi Array";
         private _DA3F_StockMrk      = [];
         private _DA3F_MultiArray    = [
             ["ColorBlue","ColorRed","ColorGreen"],
@@ -34,6 +35,9 @@
             [position player,[6411.53,9640.43,0]],
             ["ELLIPSE","ICON","RECTANGLE"]
         ];
+
+
+
 
     _DA3F_Get_My_Multi_Array =
     {

@@ -21,9 +21,20 @@
     *
 	*/
 
+// cours 02 10.06.18
 // cours 02 17.06.18
+// cours 03 24.06.18
+
 DA3F_KillLoopOrInstance =  false;
-player addAction ["Run Script","Cours_02_Multi_Array.sqf",nil,9999];
+player addAction ["Run Script","Cours_03_DebutLive.sqf",nil,9999];
+player addAction ["Run GUI",{
+
+    private _dialog = createDialog "HppGUI_Demo";
+
+        if !(_dialog) exitWith {};
+
+},nil,9999];
+
 player addAction ["Kill instance",{DA3F_KillLoopOrInstance = TRUE;hintSilent ""},nil,9999];
 
 

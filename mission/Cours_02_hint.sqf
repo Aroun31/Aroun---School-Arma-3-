@@ -20,6 +20,7 @@
     *               -------------
     *
     */
+    systemChat "Cours 02";
         private _DA3F_Txt       = "";
         private _DA3F_Br        = "<br/>";
         private _DA3F_School    = "Aroun School";

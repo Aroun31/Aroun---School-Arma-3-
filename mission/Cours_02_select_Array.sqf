@@ -20,6 +20,7 @@
     *
     */
 
+    systemChat "Cours 02";
         // Je suis un simple Tableau
         private _DA3F_SimpleArray = [{hint "salut"}, true, 54, player, ['hey']];
 

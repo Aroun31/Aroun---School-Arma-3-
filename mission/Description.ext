@@ -1,0 +1,23 @@
+author = "Aroun Le BriCodeur";
+Onloadmission = "- Aroun School -";
+
+#include "dialog\IncludeMasterGUI.hpp"
+
+class CfgFunctions {
+	class MasterYolo {
+		Tag = "DA3F";
+		#include "dialog\sqf\functionForGUI.hpp"
+	};
+};
+
+/*
+class CfgFunctions {
+	class MasterYolo {
+		Tag = "DA3F";
+		class fnc_lol {
+			file = "Chemin/.....";
+			class MaFnc {};
+		};
+	};
+};
+*/

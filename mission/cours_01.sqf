@@ -20,7 +20,7 @@
     *               -------------
     *
 	*/
-
+    systemChat "Cours 01";
 	private _DA3F_Local 	= "56";
 	Variable_Global 		= str(random 100);
 	Variable_Public 		= str(random 100);
